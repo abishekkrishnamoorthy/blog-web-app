@@ -1,11 +1,27 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-const Newpost = () => {
+const Newpost = ({handlesubmit, posttitle, setposttitle, postbody, setpostbody}) => {
   return (
-    <div>
-        <h1>Newpost</h1>
-    </div>
+    <main className='NewPost'>
+        <form className='newPostForm' onSubmit={handlesubmit}>
+         <input className='postBody border-2'
+                type="text" required
+                id='title'
+                placeholder='Title of blog'
+                value={posttitle}
+                onChange={(e)=>setposttitle(e.target.value)} 
+                />
+         <textarea  className='border-2'
+                    required
+                id='postbody'
+                placeholder='Enter your blog'
+                value={postbody}
+                onChange={(e)=>setpostbody(e.target.value)} 
+                />
+          <button>Submit</button>
+        </form>
+    </main>
   )
 }
 

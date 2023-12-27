@@ -33,13 +33,13 @@ function App() {
  
   return (    
     <div className="App">
-     
       <Header title={"blog"}/>
       <Nav search={search}
            setsearch={setsearch}
            />
        <Routes>
       <Route path="/home" element={<Home post={post}/>}/>
+      <Route path="/newpost" element={<Newpost post={post}/>}/>
      </Routes>
       
     </div>

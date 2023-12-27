@@ -7,6 +7,7 @@ const Home = ({post}) => {
    
   return (
     <main className='Home'>
+    <Link to="/newpost">newpost</Link>
     <Feed post={post}/>
     </main>
     
