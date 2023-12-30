@@ -1,22 +1,40 @@
 {
-    "post":[
-        {
-            "id":1,
-            "title":"My first post",
-            "datetime":"jan 01, 2023 11:17:36 AM",
-            "body":"hello world"
-        },
-        {   
-           "id":2,
-           "title":"My 2nd post",
-           "datetime":"jan 08, 2023 9:17:36 AM",
-           "body":"hello world 2323134234"
-        },
-        {
-            "id":3,
-            "title":"My Third post",
-            "datetime":"jan 05, 2023 1:17:36 AM",
-            "body":"hello worldsf sfgsfgfsg"
-        }
-    ]
+  "post": [
+    {
+      "id": 1,
+      "title": "My first post",
+      "datetime": "jan 01, 2023 11:17:36 AM",
+      "body": "hello world"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd post",
+      "datetime": "jan 08, 2023 9:17:36 AM",
+      "body": "hello world 2323134234"
+    },
+    {
+      "id": 3,
+      "title": "My Third post",
+      "datetime": "jan 05, 2023 1:17:36 AM",
+      "body": "hello worldsf sfgsfgfsg"
+    },
+    {
+      "id": 4,
+      "title": "asadadad",
+      "datetime": "Dec 30, 2023 10:08:06 PM",
+      "body": "adadadad"
+    },
+    {
+      "id": 5,
+      "title": "ssf",
+      "datetime": "Dec 30, 2023 10:17:07 PM",
+      "body": "adfadf"
+    },
+    {
+      "id": 6,
+      "title": "7 Creators On The Systems That Support Their Content Creation",
+      "datetime": "Dec 30, 2023 10:29:20 PM",
+      "body": "Since the first blog post was published and the first YouTube video was posted, content creation has evolved rapidly. It’s now treated as a legitimate business, with real earning potential for anyone with a smartphone and a willingness to share their creations.\n\nHowever, the ease of entry also means that anyone can become a creator, making it much harder to stand out and succeed. So, how do you get in and win?\n\nFor the most successful creators, longevity hinges on more than just creativity and engagement. It also relies on a well-structured and often-overlooked powerhouse – Systems. These systems are the backbone of a sustainable content-creation business. I think of systems as part of the broader PARTS model of becoming a creator (Product, Audience, Revenue, Trust, Systems) as created by Jay Clouse).\n\nIn this article, we dive into the intricate systems behind successful content creators as they share how they blend their creativity with strategy and technology"
+    }
+  ]
 }
